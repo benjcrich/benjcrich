@@ -1,12 +1,14 @@
+### Hi! I go by Benj!
 
-[<img src='https://github.com/benjcrich/benjcrich/blob/main/data-science-machine-learning.1.png' alt='DS Cert'>](https://www.credly.com/badges/2e133739-34c3-48f1-9929-98ac391e0eaf/public_url)
-
-### Hi there 👋, Benj Rich
 I recently completed the Data Science Course at [Bloom Institute of Technology (formerly Lambda School)](https://www.bloomtech.com). I've really enjoyed learning Python over the past few years and continuing to find new things that can blow my mind and elevate the way I work. You can check out [my Linkedin](https://www.linkedin.com/in/benjamin-c-rich/) in for more info about me 😄
 
 The most exciting thing I recently learned, is how to Automate Venmo payments using Venmo's API, meaning I no longer need to remember to pay my family for my phone bill 🎉. I currently have this set up on Windows Task Scheduler, but am wanting to put it into a Lambda Function in AWS so It's fully automated, no matter the state of my computer. 
 
 Skills: Python / SQL / Algorithms / Data Structures / Relational Databases / Postgres
+
+👇Link to Cert info👇
+
+[<img src='https://github.com/benjcrich/benjcrich/blob/main/data-science-machine-learning.1.png' alt='DS Cert'>](https://www.credly.com/badges/2e133739-34c3-48f1-9929-98ac391e0eaf/public_url)
 
 - 🔭 I’m currently working on Automated Venmo Payments 
 - 🌱 I’m currently learning AWS Lambda Functions 
